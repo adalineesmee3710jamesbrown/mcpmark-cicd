@@ -1,0 +1,1 @@
+const usedVar = 'something';\nlet y = 10;\nconsole.log('Hello', usedVar);
