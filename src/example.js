@@ -1,3 +1,1 @@
-const unused = "something";
-let y = 10
-console.log("Hello")
+const usedVar = 'something';\nlet y = 10;\nconsole.log('Hello', usedVar);
